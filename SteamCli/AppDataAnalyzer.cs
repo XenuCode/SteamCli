@@ -12,10 +12,11 @@ public class AppDataAnalyzer
         if (File.Exists("gamelistdata.json"))
         {
             applist = JsonConvert.DeserializeObject<App>(File.ReadAllText("gamelistdata.json"));
+            Console.WriteLine("Successfully reloaded list of steam games");
         }
         else
         {
-            Console.WriteLine("No gamelistdata.json file found, do you want to refresh it ?");
+            Console.WriteLine("No gamelistdata.json file found, do you want to refresh it ? [Y/N]");
             string resp = Console.ReadLine();
             if (resp.Contains("Y") || resp.Contains("y"))
             {
@@ -42,7 +43,8 @@ public class AppDataAnalyzer
             Console.Error.NewLine = e.Message;
             return;
         }
-        Console.WriteLine("Successfully refreshed game list"); 
+        Console.WriteLine("Successfully refreshed game list");
+        System.GC.Collect();
     }
     
 }

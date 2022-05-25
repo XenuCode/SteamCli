@@ -1257,3 +1257,154 @@ BuildCompleteAppOverviewChange: 239
 (steam:27251): Gtk-WARNING **: 20:52:16.448: gtk_disable_setlocale() must be called before gtk_init()
 
 (steam:27251): Gtk-WARNING **: 20:52:16.448: gtk_disable_setlocale() must be called before gtk_init()
+Game process removed: AppID 304930 "MANGOHUD=1 /home/xenu/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=304930 -- '/home/xenu/.local/share/Steam/steamapps/common/Unturned/Unturned.x86_64'", ProcID 27707 
+ThreadGetProcessExitCode: no such process 28179
+ThreadGetProcessExitCode: no such process 27707
+Game 304930 created interface STEAMAPPLIST_INTERFACE_VERSION001 / AppList
+Game 304930 created interface STEAMAPPS_INTERFACE_VERSION008 / Apps
+Game 304930 created interface STEAMHTMLSURFACE_INTERFACE_VERSION_005 / HTMLSurface
+Game 304930 created interface STEAMHTTP_INTERFACE_VERSION003 / HTTP
+Game 304930 created interface STEAMINVENTORY_INTERFACE_V003 / Inventory
+Game 304930 created interface STEAMMUSICREMOTE_INTERFACE_VERSION001 / MusicRemote
+Game 304930 created interface STEAMMUSIC_INTERFACE_VERSION001 / Music
+Game 304930 created interface STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / ParentalSettings
+Game 304930 created interface STEAMREMOTEPLAY_INTERFACE_VERSION001 / RemotePlay
+Game 304930 created interface STEAMREMOTESTORAGE_INTERFACE_VERSION016 / RemoteStorage
+Game 304930 created interface STEAMSCREENSHOTS_INTERFACE_VERSION003 / Screenshots
+Game 304930 created interface STEAMUGC_INTERFACE_VERSION015 / UGC
+Game 304930 created interface STEAMUSERSTATS_INTERFACE_VERSION012 / UserStats
+Game 304930 created interface STEAMVIDEO_INTERFACE_V002 / Video
+Game 304930 created interface SteamController008 / 
+Game 304930 created interface SteamFriends017 / Friends
+Game 304930 created interface SteamInput005 / 
+Game 304930 created interface SteamInput005 / Controller
+Game 304930 created interface SteamMatchGameSearch001 / GameSearch
+Game 304930 created interface SteamMatchMaking009 / Matchmaking
+Game 304930 created interface SteamMatchMakingServers002 / MatchmakingServers
+Game 304930 created interface SteamNetworking006 / Networking
+Game 304930 created interface SteamNetworkingMessages002 / 
+Game 304930 created interface SteamNetworkingSockets009 / 
+Game 304930 created interface SteamNetworkingUtils003 / 
+Game 304930 created interface SteamNetworkingUtils004 / 
+Game 304930 created interface SteamParties002 / Parties
+Game 304930 created interface SteamUser021 / User
+Game 304930 created interface SteamUtils010 / 
+Game 304930 created interface SteamUtils010 / Utils
+Game 304930 method call count for IClientNetworkingUtilsSerialized::GotLocationString : 2
+Game 304930 method call count for IClientNetworkingUtilsSerialized::PostConnectionStateMsg : 24915
+Game 304930 method call count for IClientNetworkingSocketsSerialized::GetSTUNServer : 2
+Game 304930 method call count for IClientNetworkingSocketsSerialized::GetCachedRelayTicketCount : 1
+Game 304930 method call count for IClientNetworkingSocketsSerialized::GetCertAsync : 1
+Game 304930 method call count for IClientInventory::RequestPrices : 3
+Game 304930 method call count for IClientInventory::TriggerItemDrop : 2
+Game 304930 method call count for IClientInventory::SendItemDropHeartbeat : 99
+Game 304930 method call count for IClientInventory::AddPromoItems : 3
+Game 304930 method call count for IClientInventory::GetItemsByID : 3
+Game 304930 method call count for IClientInventory::GetAllItems : 3
+Game 304930 method call count for IClientInventory::DestroyResult : 11
+Game 304930 method call count for IClientInventory::GetResultItemProperty : 66
+Game 304930 method call count for IClientInventory::GetResultItems : 14
+Game 304930 method call count for IClientUGC::DownloadItem : 1
+Game 304930 method call count for IClientUGC::GetItemInstallInfo : 8
+Game 304930 method call count for IClientUGC::GetItemState : 7
+Game 304930 method call count for IClientUGC::GetSubscribedItems : 1
+Game 304930 method call count for IClientUGC::GetNumSubscribedItems : 1
+Game 304930 method call count for IClientUGC::SetAllowCachedResponse : 7
+Game 304930 method call count for IClientUGC::SetReturnChildren : 3
+Game 304930 method call count for IClientUGC::SetReturnLongDescription : 3
+Game 304930 method call count for IClientUGC::SetReturnKeyValueTags : 4
+Game 304930 method call count for IClientUGC::ReleaseQueryUGCRequest : 8
+Game 304930 method call count for IClientUGC::GetQueryUGCKeyValueTag : 18
+Game 304930 method call count for IClientUGC::GetQueryUGCNumKeyValueTags : 12
+Game 304930 method call count for IClientUGC::GetQueryUGCChildren : 3
+Game 304930 method call count for IClientUGC::GetQueryUGCPreviewURL : 3
+Game 304930 method call count for IClientUGC::GetQueryUGCResult : 15
+Game 304930 method call count for IClientUGC::SendQueryUGCRequest : 12
+Game 304930 method call count for IClientUGC::CreateQueryUGCDetailsRequest : 11
+Game 304930 method call count for IClientUGC::CreateQueryUserUGCRequest : 1
+Game 304930 method call count for IClientAudio::GetVoiceOptimalSampleRate : 1
+Game 304930 method call count for IClientAudio::DecompressVoice : 128
+Game 304930 method call count for IClientAudio::GetVoice : 223
+Game 304930 method call count for IClientAudio::GetAvailableVoice : 228
+Game 304930 method call count for IClientAudio::StopVoiceRecording : 18
+Game 304930 method call count for IClientAudio::StartVoiceRecording : 18
+Game 304930 method call count for IClientHTTP::ReleaseHTTPRequest : 1
+Game 304930 method call count for IClientHTTP::GetHTTPResponseBodyData : 1
+Game 304930 method call count for IClientHTTP::SendHTTPRequest : 1
+Game 304930 method call count for IClientHTTP::SetHTTPRequestHeaderValue : 1
+Game 304930 method call count for IClientHTTP::CreateHTTPRequest : 1
+Game 304930 method call count for IClientConfigStore::GetString : 4
+Game 304930 method call count for IClientConfigStore::GetInt : 4
+Game 304930 method call count for IClientRemoteStorage::FileExists : 12
+Game 304930 method call count for IClientRemoteStorage::GetFileSize : 12
+Game 304930 method call count for IClientRemoteStorage::FileRead : 6
+Game 304930 method call count for IClientRemoteStorage::FileWrite : 255
+Game 304930 method call count for IClientUserStats::GetGlobalStat : 3
+Game 304930 method call count for IClientUserStats::RequestGlobalStats : 1
+Game 304930 method call count for IClientUserStats::SetAchievement : 3
+Game 304930 method call count for IClientUserStats::GetAchievement : 6
+Game 304930 method call count for IClientUserStats::StoreStats : 1638
+Game 304930 method call count for IClientUserStats::SetStat : 1635
+Game 304930 method call count for IClientUserStats::GetStat : 1638
+Game 304930 method call count for IClientUserStats::RequestCurrentStats : 1
+Game 304930 method call count for IClientMatchmaking::EnsureFavoriteGameAccountsUpdated : 1
+Game 304930 method call count for IClientMatchmaking::ReleaseGMSQuery : 3
+Game 304930 method call count for IClientMatchmaking::GetGMSQueryResults : 3
+Game 304930 method call count for IClientMatchmaking::PollGMSQuery : 76
+Game 304930 method call count for IClientMatchmaking::BeginGMSQuery : 3
+Game 304930 method call count for IClientMatchmaking::RemoveFavoriteGame : 1
+Game 304930 method call count for IClientMatchmaking::AddFavoriteGame : 4
+Game 304930 method call count for IClientMatchmaking::GetFavoriteGame : 3624
+Game 304930 method call count for IClientMatchmaking::GetFavoriteGameCount : 3326
+Game 304930 method call count for IClientUtils::RecordSteamInterfaceCreation : 34
+Game 304930 method call count for IClientUtils::InitFilterText : 1
+Game 304930 method call count for IClientUtils::GetSteamUILanguage : 2
+Game 304930 method call count for IClientUtils::GetAPICallResult : 24
+Game 304930 method call count for IClientUtils::GetAppID : 40
+Game 304930 method call count for IClientUtils::GetImageRGBA : 371
+Game 304930 method call count for IClientUtils::GetImageSize : 373
+Game 304930 method call count for IClientUtils::GetIPCountry : 1
+Game 304930 method call count for IClientUtils::GetServerRealTime : 37
+Game 304930 method call count for IClientUtils::GetConnectedUniverse : 1
+Game 304930 method call count for IClientFriends::SetRichPresence : 510
+Game 304930 method call count for IClientFriends::SetPlayedWith : 87
+Game 304930 method call count for IClientFriends::SetInGameVoiceSpeaking : 36
+Game 304930 method call count for IClientFriends::GetClanName : 9
+Game 304930 method call count for IClientFriends::GetClanByIndex : 71
+Game 304930 method call count for IClientFriends::GetClanCount : 51
+Game 304930 method call count for IClientFriends::GetSmallFriendAvatar : 373
+Game 304930 method call count for IClientFriends::GetPersonaName : 1
+Game 304930 method call count for IClientUser::BIsSubscribedApp : 1
+Game 304930 method call count for IClientUser::AdvertiseGame : 5
+Game 304930 method call count for IClientUser::CancelAuthTicket : 2
+Game 304930 method call count for IClientUser::GetAuthSessionTicket : 3
+Game 304930 method call count for IClientUser::GetSteamID : 3
+Game 304930 method call count for IClientUser::BLoggedOn : 5
+Uploaded AppInterfaceStats to Steam
+
+(process:27911): GLib-GObject-CRITICAL **: 21:10:09.871: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(steam:27251): GLib-GObject-CRITICAL **: 21:10:15.408: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(steam:27251): GLib-GObject-WARNING **: 21:10:15.409: invalid (NULL) pointer instance
+
+(steam:27251): GLib-GObject-CRITICAL **: 21:10:15.409: g_signal_handlers_disconnect_matched: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(steam:27251): GLib-GObject-CRITICAL **: 21:10:15.409: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[2022-05-25 19:40:52] Startup - updater built May 21 2022 02:21:29
+[2022-05-25 19:40:52] Loading cached metrics from disk (/home/xenu/.local/share/Steam/package/steam_client_metrics.bin)
+[2022-05-25 19:40:52] Using the following download hosts for Public, Realm steamglobal
+[2022-05-25 19:40:52] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-25 19:40:52] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-25 19:40:52] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-25 19:40:52] Verifying installation...
+[2022-05-25 19:40:52] Verification complete
+[2022-05-25 19:56:09] Background update loop checking for update. . .
+[2022-05-25 19:56:09] Checking for available updates...
+[2022-05-25 19:56:09] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_client_ubuntu12
+[2022-05-25 19:56:10] Manifest download: send request
+[2022-05-25 19:56:10] Manifest download: waiting for download to finish
+[2022-05-25 19:56:10] Manifest download: finished
+[2022-05-25 19:56:10] Download skipped: /client/steam_client_ubuntu12 version 1653101165, installed version 1653101165, existing pending version 0
+[2022-05-25 19:56:10] Nothing to do
+[2022-05-25 21:10:15] Shutdown
