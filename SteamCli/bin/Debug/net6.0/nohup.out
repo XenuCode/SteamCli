@@ -1,0 +1,1259 @@
+steam.sh[18910]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[18910]: STEAM_RUNTIME is enabled automatically
+setup.sh[18984]: Steam runtime environment up-to-date!
+steam.sh[18910]: Steam client's requirements are satisfied
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Loaded SDL version 2.0.22-7215337
+ComputeStartupMode: found registry default startup mode: 0Installing breakpad exception handler for appid(steam)/version(1653101165)
+steamwebhelper.sh[19086]: Runtime for steamwebhelper: defaulting to /home/xenu/.local/share/Steam/ubuntu12_64/steam-runtime-heavy
+steamwebhelper.sh[19086]: glibc >= 2.34, partially disabling sandbox until CEF supports clone3()
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+CAppInfoCacheReadFromDiskThread took 54 milliseconds to initialize
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:19082): GLib-CRITICAL **: 19:28:59.458: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:19082): GLib-CRITICAL **: 19:28:59.458: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:19082): GLib-CRITICAL **: 19:28:59.504: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:19082): GLib-CRITICAL **: 19:28:59.504: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:19082): Gtk-WARNING **: 19:28:59.788: gtk_disable_setlocale() must be called before gtk_init()
+INFO: process vulkandriverquery is blacklisted in MangoHud
+INFO: process vulkandriverquery is blacklisted in MangoHud
+[2022-05-25 19:29:00.535] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/xenu/.local/share/Steam/ubuntu12_64/MangoHud.conf' [ not found ]
+[2022-05-25 19:29:00.535] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/xenu/.config/MangoHud/vulkandriverquery.conf' [ not found ]
+[2022-05-25 19:29:00.535] [MANGOHUD] [info] [config.cpp:119] parsing config: '/home/xenu/.config/MangoHud/MangoHud.conf'
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+[2022-05-25 19:28:58] Startup - updater built May 21 2022 02:21:29
+[2022-05-25 19:28:58] Loading cached metrics from disk (/home/xenu/.local/share/Steam/package/steam_client_metrics.bin)
+[2022-05-25 19:28:58] Using the following download hosts for Public, Realm steamglobal
+[2022-05-25 19:28:58] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-25 19:28:58] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-25 19:28:58] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-25 19:28:58] Verifying installation...
+[2022-05-25 19:28:58] Verification complete
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+assert_20220525192901_27.dmp[19246]: Uploading dump (out-of-process)
+/tmp/dumps/assert_20220525192901_27.dmp
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+roaming config store loaded successfully - 1081 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 10ms
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Failed to init SteamVR because it isn't installed
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam'"
+System startup time: 5.18 seconds
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+BuildCompleteAppOverviewChange: 239
+
+(steam:19082): Gtk-WARNING **: 19:29:04.669: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:19082): Gtk-WARNING **: 19:29:04.674: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:19082): Gtk-WARNING **: 19:29:04.675: gtk_disable_setlocale() must be called before gtk_init()
+RegisterForAppOverview 1: 42ms
+RegisterForAppOverview 2: 43ms
+
+(steam:19082): Gtk-WARNING **: 19:29:06.815: gtk_disable_setlocale() must be called before gtk_init()
+assert_20220525192901_27.dmp[19246]: Finished uploading minidump (out-of-process): success = yes
+assert_20220525192901_27.dmp[19246]: response: CrashID=bp-357c9ed1-1894-47d1-8f3e-29a152220525
+assert_20220525192901_27.dmp[19246]: file ''/tmp/dumps/assert_20220525192901_27.dmp'', upload yes: ''CrashID=bp-357c9ed1-1894-47d1-8f3e-29a152220525''
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+steam.sh[20113]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[20113]: STEAM_RUNTIME is enabled automatically
+setup.sh[20187]: Steam runtime environment up-to-date!
+steam.sh[20113]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' -foreground"
+BuildCompleteAppOverviewChange: 239
+
+(steam:19082): Gtk-WARNING **: 19:31:34.705: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:19082): Gtk-WARNING **: 19:31:34.706: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:19082): Gtk-WARNING **: 19:31:34.707: gtk_disable_setlocale() must be called before gtk_init()
+src/vstdlib/coroutine.cpp (809) : GCoroutineMgr().IsValidCoroutine(hCoroutine)
+src/vstdlib/coroutine.cpp (809) : GCoroutineMgr().IsValidCoroutine(hCoroutine)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+assert_20220525193139_35.dmp[20294]: Uploading dump (out-of-process)
+/tmp/dumps/assert_20220525193139_35.dmp
+crash_20220525193139_36.dmp[20298]: Uploading dump (out-of-process)
+/tmp/dumps/crash_20220525193139_36.dmp
+/home/xenu/.local/share/Steam/steam.sh: line 794: 19082 Segmentation fault      (core dumped) "$STEAMROOT/$STEAMEXEPATH" "$@"
+crash_20220525193139_36.dmp[20298]: Finished uploading minidump (out-of-process): success = yes
+crash_20220525193139_36.dmp[20298]: response: CrashID=bp-30c18c5d-e41e-4cd7-b6e8-821d12220525
+crash_20220525193139_36.dmp[20298]: file ''/tmp/dumps/crash_20220525193139_36.dmp'', upload yes: ''CrashID=bp-30c18c5d-e41e-4cd7-b6e8-821d12220525''
+steam.sh[20372]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[20372]: STEAM_RUNTIME is enabled automatically
+setup.sh[20446]: Steam runtime environment up-to-date!
+steam.sh[20372]: Steam client's requirements are satisfied
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Loaded SDL version 2.0.22-7215337
+ComputeStartupMode: found registry default startup mode: 0Installing breakpad exception handler for appid(steam)/version(1653101165)
+steamwebhelper.sh[20547]: Runtime for steamwebhelper: defaulting to /home/xenu/.local/share/Steam/ubuntu12_64/steam-runtime-heavy
+steamwebhelper.sh[20547]: glibc >= 2.34, partially disabling sandbox until CEF supports clone3()
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+CAppInfoCacheReadFromDiskThread took 65 milliseconds to initialize
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:20542): GLib-CRITICAL **: 19:31:54.309: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:20542): GLib-CRITICAL **: 19:31:54.309: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:20542): Gtk-WARNING **: 19:31:55.021: gtk_disable_setlocale() must be called before gtk_init()
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+INFO: process vulkandriverquery is blacklisted in MangoHud
+INFO: process vulkandriverquery is blacklisted in MangoHud
+[2022-05-25 19:31:56.265] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/xenu/.local/share/Steam/ubuntu12_64/MangoHud.conf' [ not found ]
+[2022-05-25 19:31:56.265] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/xenu/.config/MangoHud/vulkandriverquery.conf' [ not found ]
+[2022-05-25 19:31:56.265] [MANGOHUD] [info] [config.cpp:119] parsing config: '/home/xenu/.config/MangoHud/MangoHud.conf'
+roaming config store loaded successfully - 1081 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 7ms
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Failed to init SteamVR because it isn't installed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam'"
+System startup time: 4.64 seconds
+
+(steam:20542): LIBDBUSMENU-GLIB-WARNING **: 19:31:57.900: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:20542): LIBDBUSMENU-GLIB-WARNING **: 19:31:57.900: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:20542): LIBDBUSMENU-GLIB-WARNING **: 19:31:57.900: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:20542): LIBDBUSMENU-GLIB-WARNING **: 19:31:57.901: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:20542): LIBDBUSMENU-GLIB-WARNING **: 19:31:57.901: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:20542): LIBDBUSMENU-GLIB-WARNING **: 19:31:57.901: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:20542): LIBDBUSMENU-GLIB-WARNING **: 19:31:57.901: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:20542): LIBDBUSMENU-GLIB-WARNING **: 19:31:57.901: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:20542): LIBDBUSMENU-GLIB-WARNING **: 19:31:57.901: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:20542): LIBDBUSMENU-GLIB-WARNING **: 19:31:57.901: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:20542): LIBDBUSMENU-GLIB-WARNING **: 19:31:57.901: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:20542): LIBDBUSMENU-GLIB-WARNING **: 19:31:57.901: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:20542): LIBDBUSMENU-GLIB-WARNING **: 19:31:57.901: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:20542): LIBDBUSMENU-GLIB-WARNING **: 19:31:57.901: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:20542): LIBDBUSMENU-GLIB-WARNING **: 19:31:57.901: Trying to remove a child that doesn't believe we're it's parent.
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+BuildCompleteAppOverviewChange: 239
+
+(steam:20542): Gtk-WARNING **: 19:31:58.753: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:20542): Gtk-WARNING **: 19:31:58.755: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:20542): Gtk-WARNING **: 19:31:58.755: gtk_disable_setlocale() must be called before gtk_init()
+RegisterForAppOverview 1: 23ms
+RegisterForAppOverview 2: 23ms
+
+(steam:20542): Gtk-WARNING **: 19:31:59.625: gtk_disable_setlocale() must be called before gtk_init()
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+steam.sh[21490]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[21490]: STEAM_RUNTIME is enabled automatically
+setup.sh[21564]: Steam runtime environment up-to-date!
+steam.sh[21490]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+BuildCompleteAppOverviewChange: 239
+
+(steam:20542): Gtk-WARNING **: 19:33:31.217: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:20542): Gtk-WARNING **: 19:33:31.217: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:20542): Gtk-WARNING **: 19:33:31.217: gtk_disable_setlocale() must be called before gtk_init()
+ExecuteSteamURL: "steam://open/library/view/home"
+BuildCompleteAppOverviewChange: 239
+
+(steam:20542): Gtk-WARNING **: 19:33:37.931: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:20542): Gtk-WARNING **: 19:33:37.931: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:20542): Gtk-WARNING **: 19:33:37.932: gtk_disable_setlocale() must be called before gtk_init()
+ExecuteSteamURL: "steam://open/downloads"
+
+(steam:20542): GLib-GObject-CRITICAL **: 19:34:00.597: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(steam:20542): GLib-GObject-WARNING **: 19:34:00.598: invalid (NULL) pointer instance
+
+(steam:20542): GLib-GObject-CRITICAL **: 19:34:00.598: g_signal_handlers_disconnect_matched: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(steam:20542): GLib-GObject-CRITICAL **: 19:34:00.598: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[2022-05-25 19:31:51] Startup - updater built May 21 2022 02:21:29
+Looks like steam didn't shutdown cleanly, scheduling immediate update check
+[2022-05-25 19:31:52] Loading cached metrics from disk (/home/xenu/.local/share/Steam/package/steam_client_metrics.bin)
+[2022-05-25 19:31:52] Using the following download hosts for Public, Realm steamglobal
+[2022-05-25 19:31:52] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-25 19:31:52] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-25 19:31:52] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-25 19:31:52] Checking for update on startup
+[2022-05-25 19:31:52] Checking for available updates...
+[2022-05-25 19:31:52] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_client_ubuntu12
+[2022-05-25 19:31:52] Manifest download: send request
+[2022-05-25 19:31:52] Manifest download: waiting for download to finish
+[2022-05-25 19:31:52] Manifest download: finished
+[2022-05-25 19:31:52] Download skipped: /client/steam_client_ubuntu12 version 1653101165, installed version 1653101165, existing pending version 0
+[2022-05-25 19:31:52] Nothing to do
+[2022-05-25 19:31:52] Verifying installation...
+[2022-05-25 19:31:52] Performing checksum verification of executable files
+[2022-05-25 19:31:53] Verification complete
+[2022-05-25 19:34:00] Shutdown
+steam.sh[21779]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[21779]: STEAM_RUNTIME is enabled automatically
+setup.sh[21853]: Steam runtime environment up-to-date!
+steam.sh[21779]: Steam client's requirements are satisfied
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Loaded SDL version 2.0.22-7215337
+ComputeStartupMode: found registry default startup mode: 0Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+CAppInfoCacheReadFromDiskThread took 55 milliseconds to initialize
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:21950): GLib-CRITICAL **: 19:34:07.759: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:21950): GLib-CRITICAL **: 19:34:07.759: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:21950): GLib-CRITICAL **: 19:34:07.832: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:21950): GLib-CRITICAL **: 19:34:07.833: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:21950): Gtk-WARNING **: 19:34:08.179: gtk_disable_setlocale() must be called before gtk_init()
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+INFO: process vulkandriverquery is blacklisted in MangoHud
+INFO: process vulkandriverquery is blacklisted in MangoHud
+[2022-05-25 19:34:09.225] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/xenu/.local/share/Steam/ubuntu12_64/MangoHud.conf' [ not found ]
+[2022-05-25 19:34:09.225] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/xenu/.config/MangoHud/vulkandriverquery.conf' [ not found ]
+[2022-05-25 19:34:09.225] [MANGOHUD] [info] [config.cpp:119] parsing config: '/home/xenu/.config/MangoHud/MangoHud.conf'
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+roaming config store loaded successfully - 1081 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 7ms
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Failed to init SteamVR because it isn't installed
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+System startup time: 4.30 seconds
+
+(steam:21950): LIBDBUSMENU-GLIB-WARNING **: 19:34:11.286: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:21950): LIBDBUSMENU-GLIB-WARNING **: 19:34:11.286: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:21950): LIBDBUSMENU-GLIB-WARNING **: 19:34:11.286: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:21950): LIBDBUSMENU-GLIB-WARNING **: 19:34:11.286: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:21950): LIBDBUSMENU-GLIB-WARNING **: 19:34:11.286: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:21950): LIBDBUSMENU-GLIB-WARNING **: 19:34:11.286: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:21950): LIBDBUSMENU-GLIB-WARNING **: 19:34:11.286: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:21950): LIBDBUSMENU-GLIB-WARNING **: 19:34:11.286: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:21950): LIBDBUSMENU-GLIB-WARNING **: 19:34:11.286: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:21950): LIBDBUSMENU-GLIB-WARNING **: 19:34:11.286: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:21950): LIBDBUSMENU-GLIB-WARNING **: 19:34:11.286: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:21950): LIBDBUSMENU-GLIB-WARNING **: 19:34:11.286: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:21950): LIBDBUSMENU-GLIB-WARNING **: 19:34:11.286: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:21950): LIBDBUSMENU-GLIB-WARNING **: 19:34:11.287: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:21950): LIBDBUSMENU-GLIB-WARNING **: 19:34:11.287: Trying to remove a child that doesn't believe we're it's parent.
+Steam: An X Error occurred
+X Error of failed request:  BadWindow (invalid Window parameter)
+Major opcode of failed request:  40 (X_TranslateCoords)
+Resource id in failed request:  0xe1e26a
+Serial number of failed request:  6473
+xerror_handler: X failed, continuing
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+[2022-05-25 19:34:06] Startup - updater built May 21 2022 02:21:29
+[2022-05-25 19:34:06] Loading cached metrics from disk (/home/xenu/.local/share/Steam/package/steam_client_metrics.bin)
+[2022-05-25 19:34:06] Using the following download hosts for Public, Realm steamglobal
+[2022-05-25 19:34:06] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-25 19:34:06] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-25 19:34:06] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-25 19:34:06] Verifying installation...
+[2022-05-25 19:34:06] Verification complete
+src/vstdlib/coroutine.cpp (809) : GCoroutineMgr().IsValidCoroutine(hCoroutine)
+src/vstdlib/coroutine.cpp (809) : GCoroutineMgr().IsValidCoroutine(hCoroutine)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+assert_20220525193427_29.dmp[22616]: Uploading dump (out-of-process)
+/tmp/dumps/assert_20220525193427_29.dmp
+src/vstdlib/coroutine.cpp (347) : m_pStackHigh
+src/vstdlib/coroutine.cpp (347) : m_pStackHigh
+crash_20220525193427_30.dmp[22620]: Uploading dump (out-of-process)
+/tmp/dumps/crash_20220525193427_30.dmp
+/home/xenu/.local/share/Steam/steam.sh: line 794: 21950 Segmentation fault      (core dumped) "$STEAMROOT/$STEAMEXEPATH" "$@"
+assert_20220525193427_29.dmp[22616]: Finished uploading minidump (out-of-process): success = yes
+assert_20220525193427_29.dmp[22616]: response: CrashID=bp-b2822501-878e-4904-aafb-4af6c2220525
+assert_20220525193427_29.dmp[22616]: file ''/tmp/dumps/assert_20220525193427_29.dmp'', upload yes: ''CrashID=bp-b2822501-878e-4904-aafb-4af6c2220525''
+steam.sh[22710]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[22710]: STEAM_RUNTIME is enabled automatically
+setup.sh[22787]: Steam runtime environment up-to-date!
+steam.sh[22710]: Steam client's requirements are satisfied
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Loaded SDL version 2.0.22-7215337
+ComputeStartupMode: found registry default startup mode: 0Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+CAppInfoCacheReadFromDiskThread took 57 milliseconds to initialize
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:22883): Gtk-WARNING **: 19:34:49.197: gtk_disable_setlocale() must be called before gtk_init()
+INFO: process vulkandriverquery is blacklisted in MangoHud
+INFO: process vulkandriverquery is blacklisted in MangoHud
+[2022-05-25 19:34:49.952] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/xenu/.local/share/Steam/ubuntu12_64/MangoHud.conf' [ not found ]
+[2022-05-25 19:34:49.952] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/xenu/.config/MangoHud/vulkandriverquery.conf' [ not found ]
+[2022-05-25 19:34:49.952] [MANGOHUD] [info] [config.cpp:119] parsing config: '/home/xenu/.config/MangoHud/MangoHud.conf'
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+[2022-05-25 19:34:46] Startup - updater built May 21 2022 02:21:29
+Looks like steam didn't shutdown cleanly, scheduling immediate update check
+[2022-05-25 19:34:46] Loading cached metrics from disk (/home/xenu/.local/share/Steam/package/steam_client_metrics.bin)
+[2022-05-25 19:34:46] Using the following download hosts for Public, Realm steamglobal
+[2022-05-25 19:34:46] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-25 19:34:46] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-25 19:34:46] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-25 19:34:46] Checking for update on startup
+[2022-05-25 19:34:46] Checking for available updates...
+[2022-05-25 19:34:46] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_client_ubuntu12
+[2022-05-25 19:34:46] Manifest download: send request
+[2022-05-25 19:34:46] Manifest download: waiting for download to finish
+[2022-05-25 19:34:46] Manifest download: finished
+[2022-05-25 19:34:46] Download skipped: /client/steam_client_ubuntu12 version 1653101165, installed version 1653101165, existing pending version 0
+[2022-05-25 19:34:46] Nothing to do
+[2022-05-25 19:34:46] Verifying installation...
+[2022-05-25 19:34:46] Performing checksum verification of executable files
+[2022-05-25 19:34:47] Verification complete
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+assert_20220525193456_28.dmp[23032]: Uploading dump (out-of-process)
+/tmp/dumps/assert_20220525193456_28.dmp
+roaming config store loaded successfully - 1081 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 9ms
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Failed to init SteamVR because it isn't installed
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+System startup time: 9.52 seconds
+
+(steam:22883): LIBDBUSMENU-GLIB-WARNING **: 19:34:57.173: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:22883): LIBDBUSMENU-GLIB-WARNING **: 19:34:57.173: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:22883): LIBDBUSMENU-GLIB-WARNING **: 19:34:57.173: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:22883): LIBDBUSMENU-GLIB-WARNING **: 19:34:57.173: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:22883): LIBDBUSMENU-GLIB-WARNING **: 19:34:57.174: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:22883): LIBDBUSMENU-GLIB-WARNING **: 19:34:57.174: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:22883): LIBDBUSMENU-GLIB-WARNING **: 19:34:57.174: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:22883): LIBDBUSMENU-GLIB-WARNING **: 19:34:57.174: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:22883): LIBDBUSMENU-GLIB-WARNING **: 19:34:57.174: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:22883): LIBDBUSMENU-GLIB-WARNING **: 19:34:57.174: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:22883): LIBDBUSMENU-GLIB-WARNING **: 19:34:57.174: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:22883): LIBDBUSMENU-GLIB-WARNING **: 19:34:57.174: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:22883): LIBDBUSMENU-GLIB-WARNING **: 19:34:57.174: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:22883): LIBDBUSMENU-GLIB-WARNING **: 19:34:57.174: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:22883): LIBDBUSMENU-GLIB-WARNING **: 19:34:57.174: Trying to remove a child that doesn't believe we're it's parent.
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+assert_20220525193139_35.dmp[20294]: Finished uploading minidump (out-of-process): success = no
+assert_20220525193139_35.dmp[20294]: error: HTTP response code said error
+assert_20220525193139_35.dmp[20294]: file ''/tmp/dumps/assert_20220525193139_35.dmp'', upload no: ''HTTP response code said error''
+assert_20220525193456_28.dmp[23032]: Finished uploading minidump (out-of-process): success = yes
+assert_20220525193456_28.dmp[23032]: response: CrashID=bp-854901ef-1596-4d45-acd4-19c142220525
+assert_20220525193456_28.dmp[23032]: file ''/tmp/dumps/assert_20220525193456_28.dmp'', upload yes: ''CrashID=bp-854901ef-1596-4d45-acd4-19c142220525''
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:22883): GLib-GObject-CRITICAL **: 19:35:19.462: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(steam:22883): GLib-GObject-WARNING **: 19:35:19.463: invalid (NULL) pointer instance
+
+(steam:22883): GLib-GObject-CRITICAL **: 19:35:19.463: g_signal_handlers_disconnect_matched: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(steam:22883): GLib-GObject-CRITICAL **: 19:35:19.463: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+[2022-05-25 19:35:19] Shutdown
+steam.sh[23618]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[23618]: STEAM_RUNTIME is enabled automatically
+setup.sh[23693]: Steam runtime environment up-to-date!
+steam.sh[23618]: Steam client's requirements are satisfied
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Loaded SDL version 2.0.22-7215337
+ComputeStartupMode: found registry default startup mode: 0Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+CAppInfoCacheReadFromDiskThread took 56 milliseconds to initialize
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:23789): GLib-CRITICAL **: 19:35:33.025: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:23789): GLib-CRITICAL **: 19:35:33.027: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:23789): GLib-CRITICAL **: 19:35:33.101: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:23789): GLib-CRITICAL **: 19:35:33.101: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+
+(steam:23789): GLib-CRITICAL **: 19:35:33.124: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:23789): GLib-CRITICAL **: 19:35:33.124: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+
+(steam:23789): GLib-CRITICAL **: 19:35:33.142: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:23789): GLib-CRITICAL **: 19:35:33.142: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+
+(steam:23789): GLib-CRITICAL **: 19:35:33.158: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:23789): GLib-CRITICAL **: 19:35:33.158: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:23789): Gtk-WARNING **: 19:35:33.516: gtk_disable_setlocale() must be called before gtk_init()
+INFO: process vulkandriverquery is blacklisted in MangoHud
+INFO: process vulkandriverquery is blacklisted in MangoHud
+[2022-05-25 19:35:34.132] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/xenu/.local/share/Steam/ubuntu12_64/MangoHud.conf' [ not found ]
+[2022-05-25 19:35:34.132] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/xenu/.config/MangoHud/vulkandriverquery.conf' [ not found ]
+[2022-05-25 19:35:34.132] [MANGOHUD] [info] [config.cpp:119] parsing config: '/home/xenu/.config/MangoHud/MangoHud.conf'
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+[2022-05-25 19:35:31] Startup - updater built May 21 2022 02:21:29
+[2022-05-25 19:35:31] Loading cached metrics from disk (/home/xenu/.local/share/Steam/package/steam_client_metrics.bin)
+[2022-05-25 19:35:31] Using the following download hosts for Public, Realm steamglobal
+[2022-05-25 19:35:31] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-25 19:35:31] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-25 19:35:31] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-25 19:35:31] Verifying installation...
+[2022-05-25 19:35:31] Verification complete
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+assert_20220525193535_26.dmp[23826]: Uploading dump (out-of-process)
+/tmp/dumps/assert_20220525193535_26.dmp
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+roaming config store loaded successfully - 1081 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 8ms
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Failed to init SteamVR because it isn't installed
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+System startup time: 4.58 seconds
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.648: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.648: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.648: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.648: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.648: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.648: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.648: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.648: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.648: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.648: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.648: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.648: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.649: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.649: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.649: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.651: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.651: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.651: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.651: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.651: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.651: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.651: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.651: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.651: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.651: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.651: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.651: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.651: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.651: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:23789): LIBDBUSMENU-GLIB-WARNING **: 19:35:36.651: Trying to remove a child that doesn't believe we're it's parent.
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+assert_20220525193535_26.dmp[23826]: Finished uploading minidump (out-of-process): success = yes
+assert_20220525193535_26.dmp[23826]: response: CrashID=bp-661160c1-84db-4150-984c-17b3e2220525
+assert_20220525193535_26.dmp[23826]: file ''/tmp/dumps/assert_20220525193535_26.dmp'', upload yes: ''CrashID=bp-661160c1-84db-4150-984c-17b3e2220525''
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+crash_20220525193427_30.dmp[22620]: Finished uploading minidump (out-of-process): success = no
+crash_20220525193427_30.dmp[22620]: error: HTTP response code said error
+crash_20220525193427_30.dmp[22620]: file ''/tmp/dumps/crash_20220525193427_30.dmp'', upload no: ''HTTP response code said error''
+steam.sh[24649]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[24650]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[24649]: STEAM_RUNTIME is enabled automatically
+steam.sh[24650]: STEAM_RUNTIME is enabled automatically
+setup.sh[24797]: Steam runtime environment up-to-date!
+setup.sh[24798]: Steam runtime environment up-to-date!
+steam.sh[24650]: Steam client's requirements are satisfied
+steam.sh[24649]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' 'steam://rungameid/304930'"
+ExecuteSteamURL: "steam://rungameid/304930"
+GameAction [AppID 304930, ActionID 1] : LaunchApp changed task to ProcessingInstallScript with ""
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+GameAction [AppID 304930, ActionID 1] : LaunchApp changed task to SynchronizingCloud with ""
+GameAction [AppID 304930, ActionID 1] : LaunchApp changed task to SynchronizingControllerConfig with ""
+GameAction [AppID 304930, ActionID 1] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+GameAction [AppID 304930, ActionID 1] : LaunchApp changed task to CreatingProcess with ""
+GameAction [AppID 304930, ActionID 1] : LaunchApp waiting for user response to CreatingProcess ""
+GameAction [AppID 304930, ActionID 1] : LaunchApp continues with user response "CreatingProcess"
+/bin/sh\0-c\0MANGOHUD=1 /home/xenu/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=304930 -- '/home/xenu/.local/share/Steam/steamapps/common/Unturned/Unturned.x86_64'\0
+Game process added : AppID 304930 "MANGOHUD=1 /home/xenu/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=304930 -- '/home/xenu/.local/share/Steam/steamapps/common/Unturned/Unturned.x86_64'", ProcID 24992, IP 0.0.0.0:0
+GameAction [AppID 304930, ActionID 1] : LaunchApp changed task to WaitingGameWindow with ""
+GameAction [AppID 304930, ActionID 1] : LaunchApp changed task to Completed with ""
+ERROR: ld.so: object '/home/xenu/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/xenu/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/xenu/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Game process updated : AppID 304930 "MANGOHUD=1 /home/xenu/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=304930 -- '/home/xenu/.local/share/Steam/steamapps/common/Unturned/Unturned.x86_64'", ProcID 24993, IP 0.0.0.0:0
+Installing breakpad exception handler for appid(gameoverlayui)/version(20220521022212)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Game process removed: AppID 304930 "MANGOHUD=1 /home/xenu/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=304930 -- '/home/xenu/.local/share/Steam/steamapps/common/Unturned/Unturned.x86_64'", ProcID 24993 
+ThreadGetProcessExitCode: no such process 24993
+Game 304930 created interface STEAMAPPLIST_INTERFACE_VERSION001 / AppList
+Game 304930 created interface STEAMAPPS_INTERFACE_VERSION008 / Apps
+Game 304930 created interface STEAMHTMLSURFACE_INTERFACE_VERSION_005 / HTMLSurface
+Game 304930 created interface STEAMHTTP_INTERFACE_VERSION003 / HTTP
+Game 304930 created interface STEAMINVENTORY_INTERFACE_V003 / Inventory
+Game 304930 created interface STEAMMUSICREMOTE_INTERFACE_VERSION001 / MusicRemote
+Game 304930 created interface STEAMMUSIC_INTERFACE_VERSION001 / Music
+Game 304930 created interface STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / ParentalSettings
+Game 304930 created interface STEAMREMOTEPLAY_INTERFACE_VERSION001 / RemotePlay
+Game 304930 created interface STEAMREMOTESTORAGE_INTERFACE_VERSION016 / RemoteStorage
+Game 304930 created interface STEAMSCREENSHOTS_INTERFACE_VERSION003 / Screenshots
+Game 304930 created interface STEAMUGC_INTERFACE_VERSION015 / UGC
+Game 304930 created interface STEAMUSERSTATS_INTERFACE_VERSION012 / UserStats
+Game 304930 created interface STEAMVIDEO_INTERFACE_V002 / Video
+Game 304930 created interface SteamController008 / 
+Game 304930 created interface SteamFriends017 / Friends
+Game 304930 created interface SteamInput005 / 
+Game 304930 created interface SteamInput005 / Controller
+Game 304930 created interface SteamMatchGameSearch001 / GameSearch
+Game 304930 created interface SteamMatchMaking009 / Matchmaking
+Game 304930 created interface SteamMatchMakingServers002 / MatchmakingServers
+Game 304930 created interface SteamNetworking006 / Networking
+Game 304930 created interface SteamNetworkingMessages002 / 
+Game 304930 created interface SteamNetworkingSockets009 / 
+Game 304930 created interface SteamNetworkingUtils003 / 
+Game 304930 created interface SteamParties002 / Parties
+Game 304930 created interface SteamUser021 / User
+Game 304930 created interface SteamUtils010 / 
+Game 304930 created interface SteamUtils010 / Utils
+Game 304930 method call count for IClientNetworkingUtilsSerialized::GotLocationString : 1
+Game 304930 method call count for IClientNetworkingSocketsSerialized::GetSTUNServer : 2
+Game 304930 method call count for IClientNetworkingSocketsSerialized::GetCachedRelayTicketCount : 1
+Game 304930 method call count for IClientNetworkingSocketsSerialized::GetCertAsync : 1
+Game 304930 method call count for IClientInventory::AddPromoItems : 1
+Game 304930 method call count for IClientInventory::DestroyResult : 1
+Game 304930 method call count for IClientUGC::GetItemInstallInfo : 4
+Game 304930 method call count for IClientUGC::GetItemState : 4
+Game 304930 method call count for IClientUGC::GetSubscribedItems : 1
+Game 304930 method call count for IClientUGC::GetNumSubscribedItems : 1
+Game 304930 method call count for IClientUGC::SetReturnKeyValueTags : 1
+Game 304930 method call count for IClientUGC::ReleaseQueryUGCRequest : 2
+Game 304930 method call count for IClientUGC::GetQueryUGCKeyValueTag : 4
+Game 304930 method call count for IClientUGC::GetQueryUGCNumKeyValueTags : 2
+Game 304930 method call count for IClientUGC::GetQueryUGCResult : 2
+Game 304930 method call count for IClientUGC::SendQueryUGCRequest : 2
+Game 304930 method call count for IClientUGC::CreateQueryUGCDetailsRequest : 1
+Game 304930 method call count for IClientUGC::CreateQueryUserUGCRequest : 1
+Game 304930 method call count for IClientHTTP::ReleaseHTTPRequest : 1
+Game 304930 method call count for IClientHTTP::GetHTTPResponseBodyData : 1
+Game 304930 method call count for IClientHTTP::SendHTTPRequest : 1
+Game 304930 method call count for IClientHTTP::SetHTTPRequestHeaderValue : 1
+Game 304930 method call count for IClientHTTP::CreateHTTPRequest : 1
+Game 304930 method call count for IClientRemoteStorage::FileExists : 10
+Game 304930 method call count for IClientRemoteStorage::GetFileSize : 10
+Game 304930 method call count for IClientRemoteStorage::FileRead : 5
+Game 304930 method call count for IClientUserStats::RequestGlobalStats : 1
+Game 304930 method call count for IClientUserStats::RequestCurrentStats : 1
+Game 304930 method call count for IClientUtils::RecordSteamInterfaceCreation : 32
+Game 304930 method call count for IClientUtils::InitFilterText : 1
+Game 304930 method call count for IClientUtils::GetSteamUILanguage : 2
+Game 304930 method call count for IClientUtils::GetAPICallResult : 7
+Game 304930 method call count for IClientUtils::GetAppID : 38
+Game 304930 method call count for IClientUtils::GetIPCountry : 1
+Game 304930 method call count for IClientUtils::GetServerRealTime : 5
+Game 304930 method call count for IClientUtils::GetConnectedUniverse : 1
+Game 304930 method call count for IClientFriends::SetRichPresence : 3
+Game 304930 method call count for IClientFriends::GetPersonaName : 1
+Game 304930 method call count for IClientUser::BIsSubscribedApp : 1
+Game 304930 method call count for IClientUser::GetSteamID : 3
+Game 304930 method call count for IClientUser::BLoggedOn : 2
+Uploaded AppInterfaceStats to Steam
+src/common/pipes.cpp (885) : stalled cross-thread pipe (pipe is disconnected).
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+assert_20220525193823_7.dmp[25081]: Uploading dump (out-of-process)
+/tmp/dumps/assert_20220525193823_7.dmp
+src/clientdll/steamclient.cpp (863) : bufRet.TellPut() == sizeof(uint8)
+src/common/processpipe_posix.cpp (507) : CCrossProcessPipe::BWrite: 32 (Broken pipe)
+src/common/pipes.cpp (885) : stalled cross-thread pipe (pipe is disconnected).
+src/clientdll/steamclient.cpp (863) : bufRet.TellPut() == sizeof(uint8)
+src/common/processpipe_posix.cpp (507) : CCrossProcessPipe::BWrite: 32 (Broken pipe)
+src/common/pipes.cpp (885) : stalled cross-thread pipe (pipe is disconnected).
+src/clientdll/steamclient.cpp (863) : bufRet.TellPut() == sizeof(uint8)
+src/common/processpipe_posix.cpp (507) : CCrossProcessPipe::BWrite: 32 (Broken pipe)
+
+(process:25032): GLib-GObject-CRITICAL **: 19:38:23.295: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(steam:23789): GLib-GObject-CRITICAL **: 19:38:23.866: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(steam:23789): GLib-GObject-WARNING **: 19:38:23.867: invalid (NULL) pointer instance
+
+(steam:23789): GLib-GObject-CRITICAL **: 19:38:23.867: g_signal_handlers_disconnect_matched: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(steam:23789): GLib-GObject-CRITICAL **: 19:38:23.867: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[2022-05-25 19:38:23] Shutdown
+assert_20220525193823_7.dmp[25081]: Finished uploading minidump (out-of-process): success = yes
+assert_20220525193823_7.dmp[25081]: response: Discarded=1
+assert_20220525193823_7.dmp[25081]: file ''/tmp/dumps/assert_20220525193823_7.dmp'', upload yes: ''Discarded=1''
+steam.sh[25647]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[25647]: STEAM_RUNTIME is enabled automatically
+setup.sh[25765]: Steam runtime environment up-to-date!
+steam.sh[25647]: Steam client's requirements are satisfied
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Loaded SDL version 2.0.22-7215337
+ComputeStartupMode: found registry default startup mode: 0Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+CAppInfoCacheReadFromDiskThread took 57 milliseconds to initialize
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:25863): Gtk-WARNING **: 19:40:26.692: gtk_disable_setlocale() must be called before gtk_init()
+INFO: process vulkandriverquery is blacklisted in MangoHud
+INFO: process vulkandriverquery is blacklisted in MangoHud
+[2022-05-25 19:40:27.460] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/xenu/.local/share/Steam/ubuntu12_64/MangoHud.conf' [ not found ]
+[2022-05-25 19:40:27.460] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/xenu/.config/MangoHud/vulkandriverquery.conf' [ not found ]
+[2022-05-25 19:40:27.460] [MANGOHUD] [info] [config.cpp:119] parsing config: '/home/xenu/.config/MangoHud/MangoHud.conf'
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+[2022-05-25 19:40:24] Startup - updater built May 21 2022 02:21:29
+[2022-05-25 19:40:25] Loading cached metrics from disk (/home/xenu/.local/share/Steam/package/steam_client_metrics.bin)
+[2022-05-25 19:40:25] Using the following download hosts for Public, Realm steamglobal
+[2022-05-25 19:40:25] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-25 19:40:25] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-25 19:40:25] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-25 19:40:25] Verifying installation...
+[2022-05-25 19:40:25] Verification complete
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+src/clientdll/compatmanager.cpp (1024) : GetCompatibilityToolCommandLineInternal on dependent tool failed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+assert_20220525194028_25.dmp[25919]: Uploading dump (out-of-process)
+/tmp/dumps/assert_20220525194028_25.dmp
+roaming config store loaded successfully - 1081 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 12ms
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Failed to init SteamVR because it isn't installed
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+System startup time: 4.92 seconds
+
+(steam:25863): LIBDBUSMENU-GLIB-WARNING **: 19:40:30.157: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:25863): LIBDBUSMENU-GLIB-WARNING **: 19:40:30.157: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:25863): LIBDBUSMENU-GLIB-WARNING **: 19:40:30.157: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:25863): LIBDBUSMENU-GLIB-WARNING **: 19:40:30.157: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:25863): LIBDBUSMENU-GLIB-WARNING **: 19:40:30.157: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:25863): LIBDBUSMENU-GLIB-WARNING **: 19:40:30.158: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:25863): LIBDBUSMENU-GLIB-WARNING **: 19:40:30.158: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:25863): LIBDBUSMENU-GLIB-WARNING **: 19:40:30.158: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:25863): LIBDBUSMENU-GLIB-WARNING **: 19:40:30.158: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:25863): LIBDBUSMENU-GLIB-WARNING **: 19:40:30.158: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:25863): LIBDBUSMENU-GLIB-WARNING **: 19:40:30.158: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:25863): LIBDBUSMENU-GLIB-WARNING **: 19:40:30.159: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:25863): LIBDBUSMENU-GLIB-WARNING **: 19:40:30.159: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:25863): LIBDBUSMENU-GLIB-WARNING **: 19:40:30.159: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:25863): LIBDBUSMENU-GLIB-WARNING **: 19:40:30.159: Trying to remove a child that doesn't believe we're it's parent.
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+steam.sh[26615]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[26615]: STEAM_RUNTIME is enabled automatically
+setup.sh[26699]: Steam runtime environment up-to-date!
+steam.sh[26615]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:25863): GLib-GObject-CRITICAL **: 19:40:52.003: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(steam:25863): GLib-GObject-WARNING **: 19:40:52.003: invalid (NULL) pointer instance
+
+(steam:25863): GLib-GObject-CRITICAL **: 19:40:52.003: g_signal_handlers_disconnect_matched: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(steam:25863): GLib-GObject-CRITICAL **: 19:40:52.004: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+[2022-05-25 19:40:52] Shutdown
+steam.sh[26913]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[26913]: STEAM_RUNTIME is enabled automatically
+steam.sh[26914]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[26914]: STEAM_RUNTIME is enabled automatically
+setup.sh[27050]: Steam runtime environment up-to-date!
+setup.sh[27063]: Steam runtime environment up-to-date!
+steam.sh[26914]: Steam client's requirements are satisfied
+steam.sh[26913]: Steam client's requirements are satisfied
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Loaded SDL version 2.0.22-7215337
+ComputeStartupMode: found registry default startup mode: 0Installing breakpad exception handler for appid(steam)/version(1653101165)
+steamwebhelper.sh[27258]: Runtime for steamwebhelper: defaulting to /home/xenu/.local/share/Steam/ubuntu12_64/steam-runtime-heavy
+steamwebhelper.sh[27258]: glibc >= 2.34, partially disabling sandbox until CEF supports clone3()
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+CAppInfoCacheReadFromDiskThread took 57 milliseconds to initialize
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:27251): GLib-CRITICAL **: 19:40:54.126: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:27251): GLib-CRITICAL **: 19:40:54.126: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+
+(steam:27251): GLib-CRITICAL **: 19:40:54.206: g_main_context_push_thread_default: assertion 'acquired_context' failed
+
+(steam:27251): GLib-CRITICAL **: 19:40:54.206: g_main_context_pop_thread_default: assertion 'g_queue_peek_head (stack) == context' failed
+
+(steam:27251): Gtk-WARNING **: 19:40:54.543: gtk_disable_setlocale() must be called before gtk_init()
+INFO: process vulkandriverquery is blacklisted in MangoHud
+INFO: process vulkandriverquery is blacklisted in MangoHud
+[2022-05-25 19:40:55.184] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/xenu/.local/share/Steam/ubuntu12_64/MangoHud.conf' [ not found ]
+[2022-05-25 19:40:55.184] [MANGOHUD] [info] [config.cpp:114] skipping config: '/home/xenu/.config/MangoHud/vulkandriverquery.conf' [ not found ]
+[2022-05-25 19:40:55.184] [MANGOHUD] [info] [config.cpp:119] parsing config: '/home/xenu/.config/MangoHud/MangoHud.conf'
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+roaming config store loaded successfully - 1081 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 7ms
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Failed to init SteamVR because it isn't installed
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' 'steam://rungameid/304930'"
+ExecuteSteamURL: "steam://rungameid/304930"
+System startup time: 4.19 seconds
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+GameAction [AppID 304930, ActionID 1] : LaunchApp changed task to ProcessingInstallScript with ""
+GameAction [AppID 304930, ActionID 1] : LaunchApp changed task to SynchronizingCloud with ""
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+BuildCompleteAppOverviewChange: 239
+
+(steam:27251): Gtk-WARNING **: 19:40:58.020: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 19:40:58.023: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 19:40:58.023: gtk_disable_setlocale() must be called before gtk_init()
+RegisterForAppOverview 1: 32ms
+RegisterForAppOverview 2: 32ms
+GameAction [AppID 304930, ActionID 1] : LaunchApp changed task to SynchronizingControllerConfig with ""
+GameAction [AppID 304930, ActionID 1] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+GameAction [AppID 304930, ActionID 1] : LaunchApp changed task to CreatingProcess with ""
+GameAction [AppID 304930, ActionID 1] : LaunchApp waiting for user response to CreatingProcess ""
+GameAction [AppID 304930, ActionID 1] : LaunchApp continues with user response "CreatingProcess"
+/bin/sh\0-c\0MANGOHUD=1 /home/xenu/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=304930 -- '/home/xenu/.local/share/Steam/steamapps/common/Unturned/Unturned.x86_64'\0
+Game process added : AppID 304930 "MANGOHUD=1 /home/xenu/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=304930 -- '/home/xenu/.local/share/Steam/steamapps/common/Unturned/Unturned.x86_64'", ProcID 27688, IP 0.0.0.0:0
+GameAction [AppID 304930, ActionID 1] : LaunchApp changed task to WaitingGameWindow with ""
+GameAction [AppID 304930, ActionID 1] : LaunchApp changed task to Completed with ""
+
+(steam:27251): Gtk-WARNING **: 19:40:59.032: gtk_disable_setlocale() must be called before gtk_init()
+ERROR: ld.so: object '/home/xenu/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/xenu/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/xenu/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Game process updated : AppID 304930 "MANGOHUD=1 /home/xenu/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=304930 -- '/home/xenu/.local/share/Steam/steamapps/common/Unturned/Unturned.x86_64'", ProcID 27707, IP 0.0.0.0:0
+Installing breakpad exception handler for appid(gameoverlayui)/version(20220521022212)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+assert_20220525194028_25.dmp[25919]: Finished uploading minidump (out-of-process): success = no
+assert_20220525194028_25.dmp[25919]: error: HTTP response code said error
+assert_20220525194028_25.dmp[25919]: file ''/tmp/dumps/assert_20220525194028_25.dmp'', upload no: ''HTTP response code said error''
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+ExecuteSteamURL: "steam://open/downloads"
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Created OPUS PLC voice encoder
+Created OPUS PLC voice decoder
+Created OPUS PLC voice decoder
+Created OPUS PLC voice decoder
+warning: The VAD has been replaced by a hack pending a complete rewrite
+Created OPUS PLC voice decoder
+Installing breakpad exception handler for appid(steam)/version(1653101165)
+Created OPUS PLC voice decoder
+steam.sh[30693]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[30692]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[30692]: STEAM_RUNTIME is enabled automatically
+steam.sh[30693]: STEAM_RUNTIME is enabled automatically
+setup.sh[30843]: Steam runtime environment up-to-date!
+setup.sh[30842]: Steam runtime environment up-to-date!
+steam.sh[30693]: Steam client's requirements are satisfied
+steam.sh[30692]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' 'steam://rungameid/304930'"
+ExecuteSteamURL: "steam://rungameid/304930"
+GameAction [AppID 304930, ActionID 2] : LaunchApp changed task to BPMHybridOverlay10ftShutdown with ""
+GameAction [AppID 304930, ActionID 2] : LaunchApp changed task to WaitingPrevProcess with ""
+BuildCompleteAppOverviewChange: 239
+
+(steam:27251): Gtk-WARNING **: 20:26:06.803: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:26:06.805: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:26:06.805: gtk_disable_setlocale() must be called before gtk_init()
+GameAction [AppID 304930, ActionID 2] : LaunchApp changed task to Completed with ""
+steam.sh[31147]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[31147]: STEAM_RUNTIME is enabled automatically
+steam.sh[31148]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[31148]: STEAM_RUNTIME is enabled automatically
+setup.sh[31301]: Steam runtime environment up-to-date!
+setup.sh[31275]: Steam runtime environment up-to-date!
+steam.sh[31147]: Steam client's requirements are satisfied
+steam.sh[31148]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' 'steam://rungameid/304930'"
+ExecuteSteamURL: "steam://rungameid/304930"
+GameAction [AppID 304930, ActionID 3] : LaunchApp changed task to BPMHybridOverlay10ftShutdown with ""
+GameAction [AppID 304930, ActionID 3] : LaunchApp changed task to WaitingPrevProcess with ""
+BuildCompleteAppOverviewChange: 239
+
+(steam:27251): Gtk-WARNING **: 20:27:13.143: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:27:13.145: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:27:13.145: gtk_disable_setlocale() must be called before gtk_init()
+GameAction [AppID 304930, ActionID 3] : LaunchApp changed task to Completed with ""
+ln: failed to create symbolic link '/home/xenu/.steam/bin32/ubuntu12_32': File exists
+ln: failed to create symbolic link '/home/xenu/.steam/steam/Steam': File exists
+steam.sh[31919]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[31919]: STEAM_RUNTIME is enabled automatically
+steam.sh[31920]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[31920]: STEAM_RUNTIME is enabled automatically
+setup.sh[32063]: Steam runtime environment up-to-date!
+setup.sh[32070]: Steam runtime environment up-to-date!
+steam.sh[31919]: Steam client's requirements are satisfied
+steam.sh[31920]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' 'steam://rungameid/304930'"
+ExecuteSteamURL: "steam://rungameid/304930"
+GameAction [AppID 304930, ActionID 4] : LaunchApp changed task to BPMHybridOverlay10ftShutdown with ""
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+GameAction [AppID 304930, ActionID 4] : LaunchApp changed task to WaitingPrevProcess with ""
+BuildCompleteAppOverviewChange: 239
+
+(steam:27251): Gtk-WARNING **: 20:32:58.475: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:32:58.490: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:32:58.493: gtk_disable_setlocale() must be called before gtk_init()
+GameAction [AppID 304930, ActionID 4] : LaunchApp changed task to Completed with ""
+steam.sh[32373]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[32373]: STEAM_RUNTIME is enabled automatically
+steam.sh[32374]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[32374]: STEAM_RUNTIME is enabled automatically
+setup.sh[32512]: Steam runtime environment up-to-date!
+setup.sh[32523]: Steam runtime environment up-to-date!
+steam.sh[32373]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+steam.sh[32374]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' 'steam://rungameid/304930'"
+ExecuteSteamURL: "steam://rungameid/304930"
+GameAction [AppID 304930, ActionID 5] : LaunchApp changed task to BPMHybridOverlay10ftShutdown with ""
+GameAction [AppID 304930, ActionID 5] : LaunchApp changed task to WaitingPrevProcess with ""
+BuildCompleteAppOverviewChange: 239
+
+(steam:27251): Gtk-WARNING **: 20:33:34.865: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:33:34.866: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:33:34.866: gtk_disable_setlocale() must be called before gtk_init()
+steam.sh[33171]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[33171]: STEAM_RUNTIME is enabled automatically
+steam.sh[33172]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[33172]: STEAM_RUNTIME is enabled automatically
+setup.sh[33311]: Steam runtime environment up-to-date!
+setup.sh[33325]: Steam runtime environment up-to-date!
+steam.sh[33172]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' 'steam://rungameid/304930'"
+ExecuteSteamURL: "steam://rungameid/304930"
+steam.sh[33171]: Steam client's requirements are satisfied
+GameAction [AppID 304930, ActionID 6] : LaunchApp changed task to BPMHybridOverlay10ftShutdown with ""
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+GameAction [AppID 304930, ActionID 6] : LaunchApp changed task to WaitingPrevProcess with ""
+BuildCompleteAppOverviewChange: 239
+
+(steam:27251): Gtk-WARNING **: 20:42:19.612: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:42:19.617: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:42:19.619: gtk_disable_setlocale() must be called before gtk_init()
+GameAction [AppID 304930, ActionID 6] : LaunchApp changed task to Completed with ""
+steam.sh[33645]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[33645]: STEAM_RUNTIME is enabled automatically
+steam.sh[33644]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[33644]: STEAM_RUNTIME is enabled automatically
+setup.sh[33783]: Steam runtime environment up-to-date!
+setup.sh[33806]: Steam runtime environment up-to-date!
+steam.sh[33645]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' 'steam://rungameid/304930'"
+ExecuteSteamURL: "steam://rungameid/304930"
+GameAction [AppID 304930, ActionID 7] : LaunchApp changed task to BPMHybridOverlay10ftShutdown with ""
+steam.sh[33644]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+GameAction [AppID 304930, ActionID 7] : LaunchApp changed task to WaitingPrevProcess with ""
+BuildCompleteAppOverviewChange: 239
+
+(steam:27251): Gtk-WARNING **: 20:43:12.203: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:43:12.204: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:43:12.204: gtk_disable_setlocale() must be called before gtk_init()
+GameAction [AppID 304930, ActionID 7] : LaunchApp changed task to Completed with ""
+Created OPUS PLC voice decoder
+steam.sh[34264]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[34264]: STEAM_RUNTIME is enabled automatically
+steam.sh[34265]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[34265]: STEAM_RUNTIME is enabled automatically
+setup.sh[34392]: Steam runtime environment up-to-date!
+setup.sh[34437]: Steam runtime environment up-to-date!
+steam.sh[34265]: Steam client's requirements are satisfied
+steam.sh[34264]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' 'steam://rungameid/304930'"
+ExecuteSteamURL: "steam://rungameid/304930"
+GameAction [AppID 304930, ActionID 8] : LaunchApp changed task to BPMHybridOverlay10ftShutdown with ""
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+GameAction [AppID 304930, ActionID 8] : LaunchApp changed task to WaitingPrevProcess with ""
+BuildCompleteAppOverviewChange: 239
+
+(steam:27251): Gtk-WARNING **: 20:49:11.036: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:49:11.036: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:49:11.038: gtk_disable_setlocale() must be called before gtk_init()
+GameAction [AppID 304930, ActionID 8] : LaunchApp changed task to Completed with ""
+steam.sh[34736]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[34736]: STEAM_RUNTIME is enabled automatically
+steam.sh[34735]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[34735]: STEAM_RUNTIME is enabled automatically
+setup.sh[34871]: Steam runtime environment up-to-date!
+setup.sh[34901]: Steam runtime environment up-to-date!
+steam.sh[34736]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' 'steam://rungameid/304930'"
+ExecuteSteamURL: "steam://rungameid/304930"
+GameAction [AppID 304930, ActionID 9] : LaunchApp changed task to BPMHybridOverlay10ftShutdown with ""
+GameAction [AppID 304930, ActionID 9] : LaunchApp changed task to WaitingPrevProcess with ""
+steam.sh[34735]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+BuildCompleteAppOverviewChange: 239
+
+(steam:27251): Gtk-WARNING **: 20:49:51.328: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:49:51.329: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:49:51.329: gtk_disable_setlocale() must be called before gtk_init()
+GameAction [AppID 304930, ActionID 9] : LaunchApp changed task to Completed with ""
+steam.sh[35225]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[35225]: STEAM_RUNTIME is enabled automatically
+steam.sh[35226]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[35226]: STEAM_RUNTIME is enabled automatically
+setup.sh[35352]: Steam runtime environment up-to-date!
+setup.sh[35382]: Steam runtime environment up-to-date!
+steam.sh[35225]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+steam.sh[35226]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' 'steam://rungameid/304930'"
+ExecuteSteamURL: "steam://rungameid/304930"
+GameAction [AppID 304930, ActionID 10] : LaunchApp changed task to BPMHybridOverlay10ftShutdown with ""
+GameAction [AppID 304930, ActionID 10] : LaunchApp changed task to WaitingPrevProcess with ""
+BuildCompleteAppOverviewChange: 239
+
+(steam:27251): Gtk-WARNING **: 20:50:42.191: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:50:42.192: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:50:42.192: gtk_disable_setlocale() must be called before gtk_init()
+GameAction [AppID 304930, ActionID 10] : LaunchApp changed task to Completed with ""
+steam.sh[35752]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[35752]: STEAM_RUNTIME is enabled automatically
+steam.sh[35753]: Running Steam on manjarolinux 21.2.6 64-bit
+steam.sh[35753]: STEAM_RUNTIME is enabled automatically
+setup.sh[35895]: Steam runtime environment up-to-date!
+setup.sh[35912]: Steam runtime environment up-to-date!
+steam.sh[35752]: Steam client's requirements are satisfied
+steam.sh[35753]: Steam client's requirements are satisfied
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' '-no-browser' 'steam://open/minigameslist'"
+ExecuteSteamURL: "steam://open/minigameslist"
+ExecCommandLine: "'/home/xenu/.local/share/Steam/ubuntu12_32/steam' 'steam://rungameid/304930'"
+ExecuteSteamURL: "steam://rungameid/304930"
+GameAction [AppID 304930, ActionID 11] : LaunchApp changed task to BPMHybridOverlay10ftShutdown with ""
+GameAction [AppID 304930, ActionID 11] : LaunchApp changed task to WaitingPrevProcess with ""
+BuildCompleteAppOverviewChange: 239
+
+(steam:27251): Gtk-WARNING **: 20:52:16.447: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:52:16.448: gtk_disable_setlocale() must be called before gtk_init()
+
+(steam:27251): Gtk-WARNING **: 20:52:16.448: gtk_disable_setlocale() must be called before gtk_init()
