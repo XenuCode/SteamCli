@@ -46,17 +46,30 @@ public class AppDataAnalyzer
         Console.WriteLine("Successfully refreshed game list");
         System.GC.Collect();
     }
-    
+
+    public Game[] FindMatch(string searchedPhrase)
+    {
+        return SearchGameList.SearchBy(applist.applist.apps, searchedPhrase);
+    }
 }
 
 public class Applist
 {
-    public Game[] apps;
+    public List<Game> apps;
 }
-public class Game
+public class Game : IComparable<Game>
 {
     [JsonProperty(PropertyName = "name")]public string name;
     public int appid;
+    public int matchValue;
+
+    public int CompareTo(Game other)
+    {
+        if (null == other)
+            return 1;
+        // string.Compare is safe when Id is null 
+        return this.matchValue.CompareTo(other.matchValue);
+    }
 }
 
 public class App

@@ -10,6 +10,7 @@ namespace SteamCli {
            static void Main(string[] args)
            {
                AppDataAnalyzer appDataAnalyzer = new AppDataAnalyzer();
+               SteamInteractions steamInteractions = new SteamInteractions();
                string command;
 
                Console.Title = "SteamCLI" + VERSION;
@@ -22,11 +23,11 @@ namespace SteamCli {
                Console.WriteLine("# !reload                     reloads steam game list");
                Console.WriteLine("# !quit                       shuts down SteamCLI");
                for (;;) 
-               {    
+               {
                    command =Console.ReadLine();
                    if (command.Contains("!run"))
                    {
-                       
+                       steamInteractions.RunGame(appDataAnalyzer.FindMatch(command.Substring(command.IndexOf("!run")+ 5,command.Length-5))[0]);
                    }else if (command.Contains("!update"))
                    {
                        
@@ -36,7 +37,8 @@ namespace SteamCli {
                    }else if (command.Contains("!reload"))
                    {
                        appDataAnalyzer.AnalizeJson();
-                   }else if (command.Contains("!quit"))
+                   }
+                   else if (command.Contains("!quit"))
                    {
                        return;
                    }
